@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 .sobreHeader {
+=======
+.sobreHeader{
+    background-image: url(https://ibb.co/ft59kDb);
+    /* background-color: rgb(224, 224, 224); */
+>>>>>>> fd121b4f422fe6d1b01fa1e8fc9794ebaf43f693
     width: auto;
     border-radius: 0 0px 10px 10px;
 }
