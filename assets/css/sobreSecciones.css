@@ -1,0 +1,31 @@
+ body{
+    background: linear-gradient(#ffffff, #d6f9fff3);
+ }
+ /* .sobreSecciones{
+}  */
+.div__imagenesTitulo--Secciones{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-top: 1rem;
+}
+.img__videoAyuda--Secciones{
+    width: 100px;
+}
+.h1__tituloSecciones--Secciones{
+    color: rgb(0, 104, 165);
+    font-family: 'Montserrat', sans-serif;
+}
+.div__containerColorP--Secciones{
+    background-color: rgb(99, 172, 255);
+    border-radius: 15px;
+}
+.div__containerColorP--Secciones{
+    margin: 1rem 0 1rem 0;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-between;
+}

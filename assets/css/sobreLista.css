@@ -1,0 +1,39 @@
+/* .sobreLista{
+
+} */
+.div__contenedorExterno--Lista{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+.div__contenedorElementos--Lista{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 30px;
+    margin-bottom: 1.1rem;
+    background-color: #fffff8;
+}
+.p__numero{
+    color: rgb(29, 127, 255);
+    font-size: 2rem;
+    padding-left: 5px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.img__imagenInterna--Lista{
+    border-radius: 25px;
+    width: 80px;
+    height: 40px;
+}
+.p__descripcionInterna--Lista{
+    flex: 1;
+    color: rgb(0, 130, 206);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+}
+.img__estatus--Lista{
+    width: 50px;
+    padding-right: 5px;
+}

@@ -1,0 +1,33 @@
+.sobreHeader{
+    background-image: url(/assets/img/imagen-header.jpg);
+    /* background-color: rgb(224, 224, 224); */
+    width: auto;
+    border-radius: 0 0px 10px 10px;
+}
+
+.div__containerElementos--Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+
+.img__logo--header {
+    width: 70px;
+    height: 40px;
+}
+.pre__titulo--header{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    /* text-shadow: 2px 2px 5px rgb(197, 197, 197); */
+}
+.span__preregistro--Header{
+    color: rgb(223, 0, 37);
+    text-shadow: 2px 2px 5px rgb(239, 246, 255);
+}
+
+
+/* font-family: 'Montserrat', sans-serif; */
