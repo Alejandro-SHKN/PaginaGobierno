@@ -6,8 +6,7 @@
 .div__imagenesTitulo--Secciones{
     display: flex;
     align-items: center;
-    justify-content: center;
-    box-sizing: border-box;
+    justify-content: space-between;
     margin-top: 1rem;
 }
 .img__videoAyuda--Secciones{
